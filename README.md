@@ -106,7 +106,7 @@ Refer to the `variables.tf` file for a complete list of configurable options.
    git clone https://github.com/your-repo/sad-cloud.git
    cd sad-cloud
    ```
-2. **Add authentication data**
+2. **Add authentication data:**  
    Create a ```providers.tf``` file inside the sadcloud directory and insert your aws access key, secret key and region.
 
 3. **Initialize Terraform:**
